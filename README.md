@@ -1,4 +1,4 @@
-# xCurrency_app
+# currency_app
 # General info
 It's the implementation of a movie exchange application. The project uses Spring boot and Hibernate frameworks. 
 The project is built using a SOLID, three-tier architecture (Repository, Service, and Controller levels), and REST principles. 
