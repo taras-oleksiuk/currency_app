@@ -36,6 +36,6 @@ By this method user can get:
 ```
 You will got a token.
 * 2 GET /api/v1/registration/confirm?token=YOUR_TOKEN
- You will got a message: Confirmed
+You will got a message: Confirmed
 * 3 Logged in the app /login
 * 4 Use the program
