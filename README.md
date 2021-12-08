@@ -25,7 +25,7 @@ By this method user can get:
 
 ## The sequence of HTTP methods
 1. POST /api/v1/registration
-# Sample request body
+#### Sample request body
 ```javascript
 {
     "firstName": "Bob",
