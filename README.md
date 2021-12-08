@@ -7,11 +7,11 @@ Users can have two roles: admin or user.
 
 ## HTTP methods: 
 * POST: /registration - all
-* GET: /search - user/admin
+* GET: /search 
 By this method user can get:
 * the page with the defined base currency and according to exchanges (an example: /search/JPY or /search/CNY);
 * the page with the defined history of exchanges history (an example: /search/2020-10-01/2021-12-03)
-* GET: /exchanges - user/admin
+* GET: /exchanges 
 
 ## Technologies
 * Java 11
